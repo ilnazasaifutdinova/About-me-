@@ -23,6 +23,11 @@ Here you can see a collection of my academic & personal projects --- all organiz
    - Created **interactive dashboards in Tableau** for key insights.
    - Used **Tableau, SQL, and Excel** for data analysis.
  
+- 🚢 **[Java Shipping Company Calculator](https://github.com/ilnazasaifutdinova/Java-Shipping-Company-Calculator)**
+   - Calculates shipping costs from China to Germany using volume & weight constraints.
+   - Optimizes container use with **modular OOP design in Java**.
+   - Used **Java 17, OOP (Abstraction, Inheritance), CLI input**, and clean architecture.
+ 
 #### 🤝 Group Projects
 
 - 👩‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
