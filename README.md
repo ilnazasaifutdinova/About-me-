@@ -34,6 +34,11 @@ Here you can see a collection of my academic & personal projects --- all organiz
  
 #### 🤝 Group Projects
 
+- 🎵 **[Spotify Database Design](https://github.com/ilnazasaifutdinova/spotify-database-design)**
+   - Designed relational schema for a Spotify-like platform with full ERD and 1NF - 3NF normalization.
+   - Used **SQL, ERD tools, 3NF normalization**, and full PDF documentation.
+
+
 - 👩‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
 
 - 📫 How to reach me **ilnazasaifutdinova@gmail.com**
@@ -54,6 +59,8 @@ Here you can see a collection of my academic & personal projects --- all organiz
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+![ERD](https://img.shields.io/badge/ERD-blue?style=for-the-badge)
+![3NF](https://img.shields.io/badge/Normalization-3NF-yellow?style=for-the-badge)
 
 #### 📊 Data Visualization & BI:
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
