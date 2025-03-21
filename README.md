@@ -15,6 +15,11 @@ Here you can see a collection of my academic & personal projects --- all organiz
    - Building ETL pipelines for real-time insights.
    - Using **GCP, Terraform, Docker & PostgreSQL**.
 
+- 🚚 **[Delivery Order Price Calculator](https://github.com/ilnazasaifutdinova/delivery-calculator)**
+   - Calculates delivery fees based on location, cart value, and distance.
+   - Uses **Haversine formula**, business rules, and FastAPI.
+   - Built with **Python, FastAPI** following RESTful design.
+
  ### 🎓 University Projects
 
  #### 👩‍💻 Individual Projects
