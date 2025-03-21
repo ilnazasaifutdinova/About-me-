@@ -3,9 +3,9 @@
 <h4 align="center">Currently seeking an internship in data-related fields</h4>
 
 
-## 🧠 What You'll Find in My GitHub Portfolio
+## 🧠 What You can Find in My GitHub Portfolio
 
-Here you'll find a collection of my academic & personal projects --- all organized and documented with care 💾✨
+Here you can see a collection of my academic & personal projects --- all organized and documented with care! 💾✨
 
 ---
 
