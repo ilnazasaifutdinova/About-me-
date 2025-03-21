@@ -2,6 +2,13 @@
 <h3 align="center">Aspiring Data Engineer | Passionate about Data & Cloud Computing</h3>  
 <h4 align="center">Currently seeking an internship in data-related fields</h4>
 
+
+## 🧠 What You'll Find in My GitHub Portfolio
+
+Here you'll find a collection of my academic & personal projects --- all organized and documented with care 💾✨
+
+---
+
 ### 🚀 Current Projects
 - 📊 **[Netflix Stock Market Analysis](https://github.com/ilnazasaifutdinova/Data_Engineering_Zoomcamp_Final)**
    - Analyzing **Netflix stock price trends** using BigQuery & SQL.
