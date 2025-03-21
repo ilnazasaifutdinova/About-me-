@@ -39,7 +39,7 @@ Here you can see a collection of my academic & personal projects --- all organiz
  
 #### 🤝 Group Projects
 
-- 🎵 **[Spotify Database Design](https://github.com/ilnazasaifutdinova/spotify-database-design)**
+- 🎵 **[Spotify Database Design](https://github.com/ilnazasaifutdinova/Spotify-database-project)**
    - Designed relational schema for a Spotify-like platform with full ERD and 1NF - 3NF normalization.
    - Used **SQL, ERD tools, 3NF normalization**, and full PDF documentation.
  
