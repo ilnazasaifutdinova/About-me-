@@ -28,6 +28,10 @@ Here you can see a collection of my academic & personal projects --- all organiz
    - Optimizes container use with **modular OOP design in Java**.
    - Used **Java 17, OOP (Abstraction, Inheritance), CLI input**, and clean architecture.
  
+- 🌐 **[Enterprise Network Simulation (Cisco Packet Tracer)](https://github.com/ilnazasaifutdinova/cisco-packet-tracer-network)**
+   - Designed and configured a full enterprise network with subnets, wireless clients, and web services.
+   - Used **Cisco Packet Tracer**, dynamic routing (RIP), Class A/C addressing, and firewall isolation.
+ 
 #### 🤝 Group Projects
 
 - 👩‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
@@ -67,3 +71,7 @@ Here you can see a collection of my academic & personal projects --- all organiz
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 ![Bash](https://img.shields.io/badge/Shell%20Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### 🌐 Networking & Simulation:
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
