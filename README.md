@@ -8,7 +8,17 @@
    - Building ETL pipelines for real-time insights.
    - Using **GCP, Terraform, Docker & PostgreSQL**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
+ ### 🎓 University Projects
+
+ #### 👩‍💻 Individual Projects
+- 📊 **[Data Visualization using Tableau](https://github.com/ilnazasaifutdinova/data-visualisation-using-Tableau)**
+   - Analyzing **global sales trends, discounts, and profits**.
+   - Created **interactive dashboards in Tableau** for key insights.
+   - Used **Tableau, SQL, and Excel** for data analysis.
+ 
+#### 🤝 Group Projects
+
+- 👩‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
 
 - 📫 How to reach me **ilnazasaifutdinova@gmail.com**
 
@@ -28,6 +38,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 📊 Data Visualization & BI:
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 #### ☁️ Cloud & DevOps:
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
