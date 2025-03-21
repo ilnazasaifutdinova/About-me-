@@ -37,6 +37,10 @@ Here you can see a collection of my academic & personal projects --- all organiz
 - 🎵 **[Spotify Database Design](https://github.com/ilnazasaifutdinova/spotify-database-design)**
    - Designed relational schema for a Spotify-like platform with full ERD and 1NF - 3NF normalization.
    - Used **SQL, ERD tools, 3NF normalization**, and full PDF documentation.
+ 
+- 💬 **[PwC Twitter Sentiment Analysis](https://github.com/ilnazasaifutdinova/pwc-sentiment-analysis-twitter)**
+   - Analyzed reposts and mentions of PwC using Natural Language Processing and visualisation.
+   - Used **Twitter API, TextBlob, Python & Tableau** to derive brand perception insights.
 
 
 - 👩‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
