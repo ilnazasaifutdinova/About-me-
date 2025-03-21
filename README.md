@@ -46,7 +46,14 @@ Here you can see a collection of my academic & personal projects --- all organiz
 - 💬 **[PwC Twitter Sentiment Analysis](https://github.com/ilnazasaifutdinova/pwc-sentiment-analysis-twitter)**
    - Analyzed reposts and mentions of PwC using Natural Language Processing and visualisation.
    - Used **Twitter API, TextBlob, Python & Tableau** to derive brand perception insights.
-
+ 
+- 🃏 **[War Card Game – Java OOP Project](https://github.com/ilnazasaifutdinova/war-card-game)**
+   - **Fully implemented "War" round mechanics from scratch** – both backend and frontend.
+   - Developed **game logic for "War" round**, ensuring correct handling of drawn cards, round progression, and scoring.
+   - Designed **custom UI elements**: visualized "War" cards, adjusted layout dynamically, and implemented additional animations.
+   - **Handled full-stack aspects** of the game, including integrating **GUI interactions** with core Java logic.
+   
+---
 
 - 👩‍💻 All of my projects are available at [https://github.com/ilnazasaifutdinova](https://github.com/ilnazasaifutdinova)
 
