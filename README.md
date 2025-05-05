@@ -5,8 +5,6 @@
 
 ## 🧠 What You can Find in My GitHub Portfolio
 
-Here you can see a collection of my academic & personal projects --- all organized and documented with care! 💾✨
-
 ---
 
  ### 🎓 University Projects
