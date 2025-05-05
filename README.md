@@ -10,6 +10,12 @@
  ### 🎓 University Projects
 
  #### 👩‍💻 Individual Projects
+- 🏦 **[Loan Approval Prediction – Supervised ML (Classification)](https://github.com/ilnazasaifutdinova/Supervised_ML)**
+   - Built **Logistic Regression** and **Decision Tree** classifiers to predict loan approval.
+   - Performed data cleaning, encoding, scaling, and cross-validation.
+   - Compared models using metrics (accuracy, F1-score, ROC AUC) and selected the best-performing model.
+   - Used **Python, pandas**, and **GridSearchCV** for hyperparameter tuning.
+ 
 - 📊 **[Data Visualization using Tableau](https://github.com/ilnazasaifutdinova/data-visualisation-using-Tableau)**
    - Analyzing **global sales trends, discounts, and profits**.
    - Created **interactive dashboards in Tableau** for key insights.
