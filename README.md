@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Hello everyone! I'm Ilnaza 👋</h1>  
-<h3 align="center">Aspiring Data Engineer | Passionate about Data & Cloud Computing</h3>  
-<h4 align="center">Currently seeking an internship in data-related fields</h4>
+<h3 align="center">Studying BSc in Software Engineering</h3>  
+<h4 align="center">Currently seeking an internship, but open to any form of professional growth :)</h4>
 
 
 ## 🧠 What You can Find in My GitHub Portfolio
